@@ -1,84 +1,42 @@
 # Juan Miguel Lirola Pérez  
-### Technical Software Developer | Computational Engineering | Data-Driven Simulation
+### Computational Workflows | Engineering Simulation, Energy & Software-Oriented Work
 
 Welcome to my GitHub profile.
 
-I am a Technical Software Developer and Ph.D. Architect with an M.Sc. in Building Structures. I combine deep domain knowledge in building physics with 8 years of experience developing software for energy efficiency and environmental simulation.
+I am an **Architect with an M.Sc. in Building Structures and a Ph.D. in Architecture**, with applied experience in **simulation-driven workflows and software tools for energy efficiency**.
+
+My work focuses on bridging **engineering domain knowledge** and **computational methods**, translating complex technical problems into structured, reproducible workflows. I have experience with MATLAB, LaTeX, Lua, SQL, and scripting, and I am currently expanding my programming skills in Python to strengthen software-oriented workflows.
 
 ---
 
-## 🧭 Professional Profile
+## 🗂 Repository Showcase
 
-- Background in **engineering and architecture**, with hands-on experience in **simulation-driven workflows**
-- Strong orientation toward **technical software development** rather than pure application usage
-- Experienced in translating **complex physical, mathematical, or engineering problems** into executable code
-- Comfortable working between **domain experts and software systems**
-- Interested in long-term, technically demanding roles rather than short-lived tooling or administrative work
+### WORK IN PROGRESS -> public soon
 
-My profile sits at the intersection of:
-**Engineering · Software Development · Numerical Methods · Data Analysis**
-
----
-
-## 🧠 Core Competencies
-
-### Programming & Technical Skills
-- Matlab, Tera, Lua, Python (scientific and technical computing)
-- Numerical computation and data processing
-- Simulation automation and workflow scripting
-- Structured problem solving and algorithmic thinking
-- Version control with Git
-
-### Engineering & Modeling
-- Simulation-based analysis
-- Parametric and data-driven modeling
-- Energy and performance simulation workflows
-- Technical evaluation of complex systems
-
-### Software Engineering Mindset
-- Clean, readable, and maintainable code
-- Reproducibility and traceability
-- Focus on correctness before optimization
-- Clear separation between logic, data, and configuration
-
----
-
-## 📂 Repository showcase:
-
-This repository contains examples of:
-- Technical scripts and tools for engineering workflows
-- Data processing and numerical analysis experiments
-- Prototype implementations of simulation or analysis pipelines
-- Exploratory work aimed at transforming domain problems into code
+### Other Projects
+This repository also contains:
+- Technical scripts and tools for engineering workflows  
+- Data processing and numerical analysis experiments  
+- Exploratory prototypes transforming domain problems into code  
 
 Each project includes:
-- Clear problem definition
-- Transparent assumptions
+- Clear problem definition  
+- Transparent assumptions  
 - Reproducible results where applicable
 
 ---
 
-## 🎯 Currently Looking For
+## 🎯 Professional Focus
 
-I am interested in roles such as:
-- Technical Software Developer
-- Computational Engineer
-- Simulation / Modeling Engineer
-- Engineering Software Specialist
-- Applied Data or Numerical Analyst (technical focus)
-
-I am particularly motivated by environments where:
-- Software quality matters
-- Engineering reasoning is valued
-- Learning and technical depth are encouraged
-- Roles are clearly defined and technically grounded
+I am interested in roles where **computational workflows, simulation, and software-oriented problem solving intersect**, particularly in analytically focused or modeling-driven environments.  
+I enjoy technically challenging problems and developing solutions that are **robust, structured, and reproducible**.
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Lirola-Perez/
-- LinkedIn: https://www.linkedin.com/in/juanmiguellirolaperez/
+- GitHub: [https://github.com/Lirola-Perez/](https://github.com/Lirola-Perez/)  
+- LinkedIn: [https://www.linkedin.com/in/juanmiguellirolaperez/](https://www.linkedin.com/in/juanmiguellirolaperez/)
 
-If your team works on technically challenging problems and values thoughtful, well-structured software, I would be glad to connect.
+If your team works on technically challenging problems and values thoughtful, well-structured computational workflows, I would be glad to connect.
 
