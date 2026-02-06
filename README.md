@@ -1,16 +1,84 @@
-## Hi there 👋
+# Juan Miguel Lirola Pérez  
+### Technical Software Developer | Computational Engineering | Data-Driven Simulation
 
-<!--
-**Lirola-Perez/Lirola-Perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I am a technical software developer with a strong background in engineering, architecture, simulation, and applied mathematics. My work focuses on building **robust, efficient, and reproducible software solutions** for technical problems, especially in contexts where **numerical methods, data processing, and domain knowledge** intersect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Professional Profile
+
+- Background in **engineering and architecture**, with hands-on experience in **simulation-driven workflows**
+- Strong orientation toward **technical software development** rather than pure application usage
+- Experienced in translating **complex physical, mathematical, or engineering problems** into executable code
+- Comfortable working between **domain experts and software systems**
+- Interested in long-term, technically demanding roles rather than short-lived tooling or administrative work
+
+My profile sits at the intersection of:
+**Engineering · Software Development · Numerical Methods · Data Analysis**
+
+---
+
+## 🧠 Core Competencies
+
+### Programming & Technical Skills
+- Matlab, Tera, Lua, Python (scientific and technical computing)
+- Numerical computation and data processing
+- Simulation automation and workflow scripting
+- Structured problem solving and algorithmic thinking
+- Version control with Git
+
+### Engineering & Modeling
+- Simulation-based analysis
+- Parametric and data-driven modeling
+- Energy and performance simulation workflows
+- Technical evaluation of complex systems
+
+### Software Engineering Mindset
+- Clean, readable, and maintainable code
+- Reproducibility and traceability
+- Focus on correctness before optimization
+- Clear separation between logic, data, and configuration
+
+---
+
+## 📂 Repository showcase:
+
+This repository contains examples of:
+- Technical scripts and tools for engineering workflows
+- Data processing and numerical analysis experiments
+- Prototype implementations of simulation or analysis pipelines
+- Exploratory work aimed at transforming domain problems into code
+
+Each project includes:
+- Clear problem definition
+- Transparent assumptions
+- Reproducible results where applicable
+
+---
+
+## 🎯 Currently Looking For
+
+I am interested in roles such as:
+- Technical Software Developer
+- Computational Engineer
+- Simulation / Modeling Engineer
+- Engineering Software Specialist
+- Applied Data or Numerical Analyst (technical focus)
+
+I am particularly motivated by environments where:
+- Software quality matters
+- Engineering reasoning is valued
+- Learning and technical depth are encouraged
+- Roles are clearly defined and technically grounded
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Lirola-Perez/
+- LinkedIn: https://www.linkedin.com/in/juanmiguellirolaperez/
+
+If your team works on technically challenging problems and values thoughtful, well-structured software, I would be glad to connect.
+
