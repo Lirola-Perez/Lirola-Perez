@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile.
 
-I am a technical software developer with a strong background in engineering, architecture, simulation, and applied mathematics. My work focuses on building **robust, efficient, and reproducible software solutions** for technical problems, especially in contexts where **numerical methods, data processing, and domain knowledge** intersect.
+I am a Technical Software Developer and Ph.D. Architect with an M.Sc. in Building Structures. I combine deep domain knowledge in building physics with 8 years of experience developing software for energy efficiency and environmental simulation.
 
 ---
 
